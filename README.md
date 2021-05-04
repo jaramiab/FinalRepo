@@ -19,6 +19,6 @@
 
 ## Project #3
 
-- https://github.com/jaramiab/Project#3
+- https://github.com/jaramiab/Project-3
 
 - <b>Description:</b>  A Memory Puzzle that I created through Python programming. This was made as a solution to a social challenge in New Jersey: how to help the elderly prevent mental/physical diseases/disorders in New Jersey, during COVID-19/quarantine.
